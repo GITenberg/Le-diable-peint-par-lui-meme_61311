@@ -1,11 +1,16 @@
 _repo: Le-diable-peint-par-lui-meme_61311
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 61311-h/images/cover.jpg
 creator:
   author:
     agent_name: Plancy, Jacques-Albin-Simon Collin de
     gutenberg_agent_id: '51354'
     url: http://www.gutenberg.org/2009/agents/51354
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61311#Le-diable-peint-par-lui-meme
 gutenberg_issued: '2020-02-03'
 gutenberg_type: Text
 identifiers:
